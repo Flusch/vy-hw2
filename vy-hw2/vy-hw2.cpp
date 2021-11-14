@@ -1,8 +1,3 @@
-//
-//Yavuz Selim GÜLER
-//1306160016
-//
-
 #include <iostream>
 using namespace std;
 
